@@ -1,6 +1,8 @@
 # Mongoose Continued
 An adaptation of [Davide Violante's Angular Full Stack](https://github.com/DavideViolante/Angular-Full-Stack) project modified for use with Pluralsight's [Moving Forward with Mongoose](https://app.pluralsight.com/library/courses/mongoosejs-moving-forward/table-of-contents) course by Mark Scott.
 
+This project represents the starter project for Module 4 of Moving Forward with Mongoose.
+
 (Original readme follows)
 
 ## Angular Full Stack [![Dependencies](https://david-dm.org/DavideViolante/Angular-Full-Stack.svg)](https://david-dm.org/DavideViolante/Angular2-Full-Stack) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
